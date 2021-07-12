@@ -14,6 +14,6 @@ The code is split up in 4 python notebooks:
     * analyse importance of each feature
     * perform feature selection
 * 4_model.ipynb
-    * train and test models
+    * train and test models predicting tip level
     * KNN, SVM, Logistic Regression, Neural Network
     * Improving final model
